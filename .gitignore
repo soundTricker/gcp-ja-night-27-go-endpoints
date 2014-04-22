@@ -3,6 +3,9 @@
 *.a
 *.so
 
+.idea/
+*.iml
+
 # Folders
 _obj
 _test
